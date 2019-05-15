@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/Burger-Builder/static/js/runtime~main.2573fa13.js"
   },
   {
-    "revision": "f21ee48e0bc41e29981e",
-    "url": "/Burger-Builder/static/js/main.f21ee48e.chunk.js"
+    "revision": "fc4dc92445cc77d21fec",
+    "url": "/Burger-Builder/static/js/main.fc4dc924.chunk.js"
   },
   {
     "revision": "6310a447de4ee73d429b",
     "url": "/Burger-Builder/static/js/2.6310a447.chunk.js"
   },
   {
-    "revision": "f21ee48e0bc41e29981e",
-    "url": "/Burger-Builder/static/css/main.265d8264.chunk.css"
+    "revision": "fc4dc92445cc77d21fec",
+    "url": "/Burger-Builder/static/css/main.8f858bea.chunk.css"
   },
   {
-    "revision": "e884b21c65f88cd7c85d118995708365",
+    "revision": "ceb7d74dcaeb268af11f8e326b0ead17",
     "url": "/Burger-Builder/index.html"
   }
 ];
